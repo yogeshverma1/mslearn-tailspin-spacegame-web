@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/yogeshverma/SpaceGame/_apis/build/status/yogeshverma1.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/yogeshverma/SpaceGame/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
